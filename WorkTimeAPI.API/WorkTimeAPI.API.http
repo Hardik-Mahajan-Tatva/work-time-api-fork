@@ -1,0 +1,6 @@
+@WorkTimeAPI.API_HostAddress = http://localhost:5226
+
+GET http://localhost:5226/swagger/index.html
+Accept: application/json
+
+###
